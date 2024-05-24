@@ -1,7 +1,7 @@
 package com.crud.crudwithpostgres.model;
 
 
-import jakarta.annotation.Nonnull;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
